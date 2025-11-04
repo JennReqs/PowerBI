@@ -5,7 +5,9 @@ This file is about sql and sql queries and projects in order for me to consolida
 
 | Project Name   | Description | Topic |
 |--------------  |-------------|-------|
-| [coffee sales](Coffee Sales) | Coffee Sales Analysis. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
 | [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
 | [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
 | [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
