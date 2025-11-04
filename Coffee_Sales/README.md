@@ -1,4 +1,4 @@
-## Coffee Sales Dashboard**
+## Coffee Sales Dashboard
 Objective:
 To create a coffee dashboard from a coffee sales data
 
@@ -16,6 +16,7 @@ To create a coffee dashboard from a coffee sales data
 | 3. Sales by Time of the Day| Determine what time of the day with the highest sales(morning, afternoon, night)|
 |4. Peak Hours| Hour of the day with the highest and lowest sales |
 |5. Sales by Month| Month with the highest and lowest sales |
+
 
 
 ### Sales Dashboard 
