@@ -18,27 +18,8 @@ To create a coffee dashboard from a coffee sales data
 |5. Sales by Month| Month with the highest and lowest sales |
 
 
-
-### Next is to add data to the table.
-I used the export wizard window for me to upload data on my table. I’ll just make sure the values is correct like the data types and format especially the date format (yyyy-mm-dd).
-
-### Step 2: Write Analytical SQL Queries
-
-
 ### 1. Customer Insights
 
-_Find the top 10 customers by total spending._
 
-![top10 with highest spend](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/top10customers.PNG)
+![Sales_Coffee](https://github.com/JennReqs/PowerBI/blob/main/Coffee_Sales/sales_coffee.PNG)
 
-### 2. Sales Performance
-
-_Calculate total sales revenue per month._
-
-![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/monthlysales.PNG)
-
-### 3. Product Analysis
-
-_Find the most profitable products._
-
-![revenue per month](https://github.com/JennReqs/sql_project/blob/main/sales_analysis/topitemsales.PNG)
