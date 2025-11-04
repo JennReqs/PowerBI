@@ -1,2 +1,12 @@
 # PowerBI
-This section shows Power BI projects such as visualization and dashboard
+
+This file is about sql and sql queries and projects in order for me to consolidate all the information I learned about sql
+
+
+| Project Name   | Description | Topic |
+|--------------  |-------------|-------|
+| [coffee sales](./Coffee_sales) | Coffee Sales Analysis. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
+| [sales_analysis](./sales_analysis) | Add data Here. | Add description here |
