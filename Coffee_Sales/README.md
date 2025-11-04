@@ -18,7 +18,7 @@ To create a coffee dashboard from a coffee sales data
 |5. Sales by Month| Month with the highest and lowest sales |
 
 
-### 1. Customer Insights
+### Sales Dashboard 
 
 
 ![Sales_Coffee](https://github.com/JennReqs/PowerBI/blob/main/Coffee_Sales/sales_coffee.PNG)
