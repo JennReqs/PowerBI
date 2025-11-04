@@ -9,7 +9,7 @@ To create a coffee dashboard from a coffee sales data
      Number of Items Sold = COUNT(Coffe_sales[coffee_name])
 3. For the Total Sales, I will used graphs in order to compute it. 
      
-| Queries to Answer | Column Name |
+| Queries to Answer | Description |
 |--------------|-------------|
 |1. Sales by Coffee Type| Highest Sales by Coffee type|
 |2. Sales by the Day of the Week| Determine what day of the week with the highest and lowest sales|
